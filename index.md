@@ -646,4 +646,3 @@ Ejemplo: las relaciones entre padres e hijos en las primeras décadas no son rec
 - La frecuencia de los contactos indica que a mayor distancia mayor requerimiento de mantener activo el contacto y para mantener la intensidad; al mismo tiempo, muchos vínculos pueden ser reactivados rápidamente aún cuando haya transcurrido un lapso importante entre contactos; y
 - La historia de la relación, es decir, desde hace cuanto tiempo se conocen y cuál es la experiencia previa de activación del vínculo. 
 
----
