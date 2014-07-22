@@ -48,6 +48,33 @@ line-height: 65px;
 
 ---
 
+## Definiciones
+
+<div class="nota"><strong>Emprendedor:</strong> Aquella persona que detecta una oportunidad y organiza los recursos necesarios para ponerla en marcha en forma de un negocio o actividad económica. </div>
+
+<div class="nota"><strong>Microempresa:</strong>Según la Unión Europea se considera microempresa aquellas con menos de 10 empleados en sus plantillas. Según la Unión Europea se considera microempresa aquellas con menos de 10 empleados en sus plantillas.</div>
+
+<style>
+.nota, .aviso {
+color: black;
+line-height: 32px;
+padding: 28px;
+margin-top: 28px;
+margin-bottom: 28px;
+border-radius: 25px;
+box-shadow: 10px 10px 5px #888888;
+}
+.nota {
+background-color: LightSteelBlue;
+}
+.aviso {
+background-color: Pink;
+}
+
+</style>
+
+---
+
 ## Conocimientos
 ### Conocimientos básicos del tipo de negocio a crear
 
@@ -70,6 +97,8 @@ La posibilidad de que el propio emprendedor pueda actuar como empresario/a y al 
 
 ## Conocimientos
 ### Conocimientos del mercado
+
+<div class="nota"><strong>Mercado: </strong>Es donde confluyen la oferta y la demanda de bienes y servicios y donde se relacionan los diferentes agentes que intervienen en el proceso de intercambio.</div>
 
 El entorno de una empresa se podría definir como todo aquello que no es la empresa e incide en ella.
 
@@ -136,6 +165,7 @@ Guía orientativa y sin orden, está abierta y es susceptible de modificaciones:
   > - Eficiencia
   > - Eficacia
   > - Inteligencia emocional
+  > - Perseverancia
 
 ---
 
@@ -209,9 +239,27 @@ line-height: 65px;
 ---
 
 ## Variables comerciales y de marketing
+
+<div class="mm">
+<img src="http://www.venta.co.uk/wp-content/uploads/2013/07/Marketing-Mix.jpg">
+</div>
+
+<style>
+.mm img {
+    max-height: 500px;
+    position: absolute;
+    left: 215px;
+    top: 185px;
+}
+</style>
+
+
+---
+
+## Variables comerciales y de marketing
 ### Marketing Mix
 
-Conjunto de las variables comerciales de una empresa, producto, precio, comunicación y distribución, que se conocen comúnmente en el mundo de los negocios como las 4P (Product-producto, Price-Precio, Promotion-Comunicación, Place-Distribucion).
+<div class="nota"><strong>Marketing-Mix</strong>Conjunto de las variables comerciales de una empresa producto, precio, comunicación y distribución, que se conocen comúnmente en el mundo de los negocios como las 4P (Product-producto, Price-Precio, Promotion-Comunicación, Place-Distribucion).</div>
 
 El Marketing Mix, es la estrategia del empresario para conseguir atraer la atención de los consumidores y para satisfacer sus necesidades que es la principal fuente de ingresos de cualquier negocio.
 
@@ -244,6 +292,24 @@ Se trata de factores cuya influencia afecta de una forma duradera a los planes u
 ---
 
 ## Variables comerciales y de marketing
+### Producto
+
+<div class="producto">
+<img src="http://1.bp.blogspot.com/_Vpw3Da-764I/TJJgHTlzsuI/AAAAAAAAAD4/aNd1QpPD67w/s1600/Atrevez+de+producto.png">
+</div>
+
+<style>
+.producto img {
+    max-height: 650px;
+    position: absolute;
+    left: 225px;
+    top: 150px;
+}
+</style>
+
+---
+
+## Variables comerciales y de marketing
 ### Variables estratégicas: El producto y la distribución *(cont.)*
 
 **Producto:** bienes, servicios o ideas que utiliza un empresario para motivar y satisfacer las necesidades de un comprador.
@@ -251,6 +317,22 @@ Se trata de factores cuya influencia afecta de una forma duradera a los planes u
   - Clasificar los productos: según el tipo de consumidor, sector…
   - Productos diferentes pueden satisfacer a una misma necesidad y un solo producto puede satisfacer varias necesidades diferentes.
   - Es la principal “P” del marketing mix, puesto que es el elemento que enlaza la actividad económica con los consumidores y permitirá ganar dinero.
+
+---
+
+## Variables comerciales y de marketing
+### Distribución
+
+<div class="distribucion"><img src="http://us.123rf.com/450wm/studiom1/studiom11209/studiom1120900421/15176576-logistica-lupa-y-de-fondo-sin-fisuras.jpg"</div>
+
+<style>
+.distribucion img {
+    max-height: 450px;
+    position: absolute;
+    left: 250px;
+    top: 175px;
+}
+</style>
 
 ---
 
@@ -270,6 +352,19 @@ Los canales de distribución se pueden dividir en:
 - **Canal directo:** no hay intermediarios, relación directa fabricante-consumidor.
 
 - **Canal indirecto:** existen intermediarios entre el fabricante y el consumidor. (Minoristas, mayoristas, agentes de ventas, corredores, etc).
+
+---
+
+<div class="canal_dist"> <img src="http://compartiendoconocimiento.files.wordpress.com/2010/02/canales-de-distribucion.jpg" >
+</div>
+<style>
+.canal_dist img {
+  max-height: 600px;
+  position: absolute;
+  left: 125px;
+  top: 100px;
+}
+</style>
 
 ---
 
@@ -299,13 +394,58 @@ Las funciones de la distribución:
 ## Variables comerciales y de marketing
 ### El precio
 
+<div class="precio">
+<img src="http://www.businessburrito.com/images/money-box.jpg">
+</div>
+
+<style>
+.precio img {
+    max-height: 500px;
+    position: absolute;
+    left: 325px;
+    top: 200px;
+}
+</style>
+
+---
+
+## Variables comerciales y de marketing
+### El precio
+
 - Históricamente es e factor más influyente en la decisión de los consumidores sobre la elección de productos o servicios.
 - Único elemento del marketing mix que proporciona beneficios, el resto (productos, comunicaciones y distribución), suponen una inversión para una empresa.
 - De su adecuada fijación o modificación depende en gran parte los ingresos de las mismas.
-- Errores frecuentes
-  - Fijar precios demasiado orientados a los costes.
-  - No revisarlos frecuentemente.
-  - Decidir el precio sin tener en cuenta las demás variables del marketing mix.
+
+---
+
+## Variables comerciales y de marketing
+### El precio
+
+<div class="aviso">
+<strong>Errores frecuentes</strong>
+<ul>
+<li>Fijar precios demasiado orientados a los costes.
+<li>No revisarlos frecuentemente.
+<li>Decidir el precio sin tener en cuenta las demás variables del marketing mix.
+</ul>
+</div>
+
+---
+
+## Variables comerciales y de marketing
+### La comunicación 
+
+<div class="comunicacion"><img src="http://www.porlavia.com/wp-content/uploads/2012/05/GlobeHiRes-1024x871.jpg">
+
+<style>
+.comunicacion img {
+    max-height: 500px;
+    position: absolute;
+    left: 275px;
+    top: 172px;
+}
+</style>
+
 
 ---
 
@@ -437,7 +577,7 @@ Elementos a tener en cuenta sobre la forma jurídica
 
 **Prestigio**
 
-El emprendedor debe entender que la opinión favorable del entrono de un negocio es una ventaja competitiva que puede reportar beneficios en forma de alianzas, colaboraciones y respeto, no solo d los clientes, sino también de los demás entes que interactúan con él.
+El emprendedor debe entender que la opinión favorable del entorno de un negocio es una ventaja competitiva que puede reportar beneficios en forma de alianzas, colaboraciones y respeto, no solo d los clientes, sino también de los demás entes que interactúan con él.
 
 El empresario emprendedor debe saber infundir el talante adecuado a todas las áreas del negocio, gestión, cobros, pagos, cumplimiento de obligaciones, relaciones públicas, trato con el personal.
 
