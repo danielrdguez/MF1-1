@@ -12,6 +12,34 @@ knit        : slidify::knit2slides
 
 ---  
 
+<style>
+
+.dark h2{
+line-height: 65px;
+}
+
+.nota, .aviso {
+color: black;
+line-height: 32px;
+padding: 28px;
+margin-top: 28px;
+margin-bottom: 28px;
+border-radius: 25px;
+box-shadow: 10px 10px 5px #888888;
+}
+
+.nota {
+background-color: LightSteelBlue;
+}
+
+.aviso {
+background-color: Pink;
+}
+
+</style>
+
+
+
 ## Contenidos
 ### Evaluación del potencial del Emprendedor
 
@@ -40,9 +68,35 @@ knit        : slidify::knit2slides
 
 ## Evaluación del Potencial Emprendedor
 
+---
+
+## ¿Qué es un emprendedor?
+
+<div class="jobs"><img src="http://i1.wp.com/appleweblog.com/files/2011/10/Biografia-Steve-Jobs-Muerte.jpg"></div>
+
+<div class="limpiabotas"><img src="http://estaticos03.elmundo.es/especiales/uno_de_seis_millones/historias/historia_46/grande.jpg" height="200"></div>
+
+<div class="zara"><img src="http://chocolateame.files.wordpress.com/2012/08/amancio-ortega2.jpg"></div>
+<div>
+
 <style>
-.dark h2{
-line-height: 65px;
+
+.jobs {
+max-height: 400px;
+max-width: 400px;
+float: left;
+padding-left: 15px;
+padding-bottom: 12px;
+}
+.limpiabotas {
+max-height: 400px;
+max-width: 400px;
+float: left;
+padding-left: 15px;
+padding-bottom: 10px;
+}
+.zara {
+max-height: 300px;
 }
 </style>
 
@@ -54,24 +108,7 @@ line-height: 65px;
 
 <div class="nota"><strong>Microempresa:</strong>Según la Unión Europea se considera microempresa aquellas con menos de 10 empleados en sus plantillas. Según la Unión Europea se considera microempresa aquellas con menos de 10 empleados en sus plantillas.</div>
 
-<style>
-.nota, .aviso {
-color: black;
-line-height: 32px;
-padding: 28px;
-margin-top: 28px;
-margin-bottom: 28px;
-border-radius: 25px;
-box-shadow: 10px 10px 5px #888888;
-}
-.nota {
-background-color: LightSteelBlue;
-}
-.aviso {
-background-color: Pink;
-}
 
-</style>
 
 ---
 
@@ -79,7 +116,7 @@ background-color: Pink;
 ### Conocimientos básicos del tipo de negocio a crear
 
 - Conocimientos de la actividad a emprender para tomar decisiones basicas: ¿Que producto?, ¿sistema de producción?, ¿que cantidad?, ¿en que lugar?, ¿cuantía de inversión?…
-- Saber planificar y organizar, gestionar, en cierta medida, un negocio de determinadas características (know-how: “saber-como”, hace referencia al conjunto de conocimientos, no necesariamente adquiridos académicamente; perspicacia, técnicas de producción, liderazgo, sensibilidad, objetividad, información a la hora de desarrollar un proceso).
+- Saber planificar y organizar, gestionar, en cierta medida, un negocio de determinadas características (*know-how:* “saber-como”, hace referencia al conjunto de conocimientos, no necesariamente adquiridos académicamente; perspicacia, técnicas de producción, liderazgo, sensibilidad, objetividad, información a la hora de desarrollar un proceso).
 - Forma jurídica:, la estructura que mejor se adapte a la actividad de la empresa (por número de trabajadores, por dimensiones, por financiación, por naturaleza de la actividad, capital social necesario, etc.)
 - Régimen tributario.
 - Fuentes de financiación disponibles para esa actividad (créditos, ayudas, subvenciones, etc.).
