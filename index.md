@@ -233,6 +233,19 @@ Ejemplos:
 
 ## Intereses y motivaciones
 
+<iframe src="https://docs.google.com/file/d/0ByIfQVyqvk-mNUFhbXB2VElIbjg/preview" width="640" height="480"></iframe>
+
+---
+
+## Intereses y motivaciones
+
+<iframe src="https://docs.google.com/file/d/0ByIfQVyqvk-mVVlkZldKamstcUE/preview" width="640" height="480"></iframe>
+
+---
+
+
+## Intereses y motivaciones
+
 Las motivaciones típicas del emprendedor son las siguientes:
 
   > - Satisfacción por crear su propio negocio.
@@ -283,10 +296,10 @@ line-height: 65px;
 
 <style>
 .mm img {
-    max-height: 500px;
-    position: absolute;
-    left: 215px;
-    top: 185px;
+  max-height:500px;
+  position: absolute;
+  left: 175px;
+  top: 175px;
 }
 </style>
 
@@ -332,15 +345,15 @@ Se trata de factores cuya influencia afecta de una forma duradera a los planes u
 ### Producto
 
 <div class="producto">
-<img src="http://1.bp.blogspot.com/_Vpw3Da-764I/TJJgHTlzsuI/AAAAAAAAAD4/aNd1QpPD67w/s1600/Atrevez+de+producto.png">
+<img src="http://metodospublicitarios.com/wp-content/uploads/2014/03/Fijar-Precio.jpg">
 </div>
 
 <style>
 .producto img {
-    max-height: 650px;
+    max-height: 450px;
     position: absolute;
     left: 225px;
-    top: 150px;
+    top: 185px;
 }
 </style>
 
@@ -528,6 +541,16 @@ Las funciones de la distribución:
 2. Producto
 3. _Promoción_
 4. Distribución
+
+---
+
+### Ejemplo Marketing-Mix
+### ¿Qué valores tienen las variables de Marketing-Mix de Faro de Vigo?
+
+- **Precio:** 1,10 euros
+- **Producto:** Periódico Faro de Vigo
+- **Promoción:** Vallas publicitarias
+- **Distribución:** Kioscos de prensa
 
 ---
 
